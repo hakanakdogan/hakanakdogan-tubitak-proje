@@ -1,0 +1,1 @@
+worker: node mongo/server.js

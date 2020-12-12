@@ -1,0 +1,27 @@
+[
+    {
+        "question":"L'Agence internationale de l'énergie, qui passe pour donner les ---- les plus justes, affirme que nous vivons \"un grand moment de l'histoire du pétrole\" et que \"le marché ne sera plus jamais comme avant\".",
+        "answer":["prévisions","exigences","reconstitutions","mesures","préventions"],
+        "explanation":"Açıklama 1"
+    },
+    {
+        "question":"Sans carte ni boussole ou sextant, les Océaniens ont exploré la quasi-totalité du Pacifique grâce à des embarcations ---- et une connaissance exceptionnelle du ciel et de la mer",
+        "answer":["performantes","encombrées","incertaines","périlleuses","charmantes"],
+        "explanation":"Açıklama 2"
+    },
+    {
+        "question":" L’étude de certaines populations d’Asie et d’Afrique ---- végétariennes a révélé la présence d’une forme \"optimisée\" du gène qui sert à synthétiser soi-même certains acides gras essentiels dans les produits carnés.",
+        "answer":["essentiellement","graduellement","intelligemment","mortellement","soigneusement"],
+        "explanation":"Açıklama 3"
+    },
+    {
+        "question":" Dans les centrales nucléaires, le réacteur ---- la chaleur nécessaire pour transformer l'eau en vapeur qui actionne des roues géantes liée à un générateur.",
+        "answer":["fournit","empêche","multiplie","détruit","conteste"],
+        "explanation":"Açıklama 4"
+    },
+    {
+        "question":" Depuis la découverte de la première exoplanète, il y a vingt et un ans, la question philosophique \"sommes-nous seuls dans l’Univers?\" a ---- de multiples questions scientifiques.",
+        "answer":["donné naissance à","eu pour objet ","fait face à ","tenu compte","mis à l'épreuve"],
+        "explanation":"Açıklama 5"
+    }
+]

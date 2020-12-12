@@ -1,0 +1,27 @@
+[
+    {
+        "question":" Gender studies is a multifaceted field of inquiry into social structures and social relations that has important ---- for the study of violence, peace and conflict.",
+        "answer":["implications","challenges","divisions","drawbacks","requirements"],
+        "explanation":"Açıklama 1"
+    },
+    {
+        "question":"Nano-tech products can potentially save lives as well as give us hundreds of new conveniences from enhanced drug delivery and disease ---- to fabric that will not stain.",
+        "answer":["detection","progression","manipulation","transmission","inheritance"],
+        "explanation":"Açıklama 2"
+    },
+    {
+        "question":"The thin, invisible layer of gas surrounding the Earth, which is called the atmosphere, shields us from the vacuum of space and protects us from ---- solar radiation.",
+        "answer":["excessive","delicate","vigorous","elaborate","swift"],
+        "explanation":"Açıklama 3"
+    },
+    {
+        "question":"Architectural analysis is not only a ---- academic pursuit, done for its own sake, but it can be informative and entertaining as well.",
+        "answer":["drastically","mutually","convincingly","purely","deniably"],
+        "explanation":"Açıklama 4"
+    },
+    {
+        "question":"Childcare is a broad term that ---- services which protect the health, safety, and well-being of children who require custodial care by adults other than their own parents for a temporary period of time.",
+        "answer":["encompasses","hinders","eliminates","creates","suspends"],
+        "explanation":"Açıklama 5"
+    }
+]

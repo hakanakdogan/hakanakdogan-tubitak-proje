@@ -1,0 +1,27 @@
+[
+    {
+        "question":"In drei großen Kriegen schaltete Rom, um 750 v. Chr., seine Konkurrenten aus und weitete seine in Italien errungene ---- auf den westlichen Mittelmeerraum aus.",
+        "answer":["Vormachtstellung","Niederlage","Feldzüge","Bodenschätze","Eroberung"],
+        "explanation":"Açıklama 1"
+    },
+    {
+        "question":"Als Migräne bezeichnet man ---- auftretende Kopfschmerzen, die von Symptomen wie Übelkeit, Licht und Lärmempfindlichkeit begleitet werden.",
+        "answer":["anfallartig","anpassungsfähig","widerstandsfähig","zerstörerisch","behutsam"],
+        "explanation":"Açıklama 2"
+    },
+    {
+        "question":"Das Gefährliche an Seebeben ist, dass sie aufgrund ihrer geringen Höhe von einigen Dezimetern auf dem Meer ---- bemerkt werden, sich aber an den Küsten dann zu riesigen Wellen auftürmen können.",
+        "answer":["kaum","wohl","bereits","durchaus","überaus"],
+        "explanation":"Açıklama 3"
+    },
+    {
+        "question":"Bevor das @-Symbol 1971 zum ersten Mal in E-Mails ---- wurde, war es ein obskures Rechenzeichen, mit dem man den Preis von Waren markierte.",
+        "answer":["verwendet","angelegt","hingewiesen","versehen","aufgehoben"],
+        "explanation":"Açıklama 4"
+    },
+    {
+        "question":" Nachdem man lange die seelischen Komponenten bei Krankheiten vernachlässigt hat, neigt man heute im Gegensatz oft dazu, sie zu ----.",
+        "answer":["überschätzen","sperren","unterdrücken","entfernen","entwerten"],
+        "explanation":"Açıklama 5"
+    }
+]

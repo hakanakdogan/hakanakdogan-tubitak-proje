@@ -1,0 +1,28 @@
+{
+  "name": "telegrammatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon bot.js",
+    "sv": "nodemon mongo/server.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.50.0",
+    "telegraf": "^3.38.0",
+    "telegraf-keyboard": "^1.1.2",
+    "telegraf-quiz": "^2.0.0"
+  }
+}
